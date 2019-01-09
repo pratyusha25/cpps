@@ -1,5 +1,5 @@
 What is <stdio.h>?
-Ans: Its a header file, and entire file is read in at this point.
+Ans: Its a header file, and entire file is read in at this point. It is the directive which tells the compiler to put code from the header.
 
 What is void?
 Ans: it indicates that the function does not return a value and also the function does not have parameters.
@@ -16,7 +16,14 @@ Ans: C uses constants, variables, operators, keywords and expressions as buildin
 Purpose of scanf?
 Ans:It is a function that reads data with specified formate.
 
-what is printf?
-Ans:
+Wat is int main?
+Ans:The line tells the compiler that there is a function named main function will return a interger hence int is added.
 
-purpose of semicolon?
+What is '\n'?
+Ans: it is to move the cursor in screen to the next line. It also stands for a new line.
+
+What is the use of &?
+Ans: Gives the scanf
+
+
+
