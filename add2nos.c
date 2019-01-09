@@ -15,13 +15,14 @@ int compute(int x)
     x=a+b;
     return x;
 }
-void output(int m, int n)
+void output(int m, int n, int x)
 {
-   printf("%d%d +b is %f",m,n);
+   printf("%d + %d is %d",m,n,x);
 }
 int main(void)
 {
+   int x;
    int a=input();
    int b=compute(a);
-   output(a,b);
+   output(a,b,x);
 }
