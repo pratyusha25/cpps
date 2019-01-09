@@ -17,7 +17,7 @@ int compute(int x)
 }
 void output(int m, int n)
 {
-   printf("%d%d +b is %d%d",m,n);
+   printf("%d%d +b is %f",m,n);
 }
 int main(void)
 {
