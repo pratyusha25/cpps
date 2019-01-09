@@ -1,9 +1,22 @@
 What is <stdio.h>?
+Ans: Its a header file, and entire file is read in at this point.
+
 What is void?
+Ans: it indicates that the function does not return a value and also the function does not have parameters.
+
 What is %d ?
+Ans: It is used to formate the C programming language. If we want to print an interger we use %d, it is called a formate specifier.
+
 What are pointers?
+Ans: It is the variable that points or stores the address of another variable. It is used to allocate momory dynamically (at ru time).
+
 What are C Characters?
-What is compel?
+Ans: C uses constants, variables, operators, keywords and expressions as building blocks to form a basic C program
+
 Purpose of scanf?
+Ans:It is a function that reads data with specified formate.
+
 what is printf?
+Ans:
+
 purpose of semicolon?
