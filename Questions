@@ -5,7 +5,7 @@ What is void?
 Ans: it indicates that the function does not return a value and also the function does not have parameters.
 
 What is %d ?
-Ans: It is used to formate the C programming language. If we want to print an interger we use %d, it is called a formate specifier.
+Ans: It is used to formate the C programming language. If we want to print an interger we use %d, it is called a formate specifier.Ans: Gives the scanf
 
 What are pointers?
 Ans: It is the variable that points or stores the address of another variable. It is used to allocate momory dynamically (at ru time).
@@ -24,6 +24,8 @@ Ans: it is to move the cursor in screen to the next line. It also stands for a n
 
 What is the use of &?
 Ans: Gives the scanf
+
+tdy.c:14:1: error: parameter name omitted
 
 
 
