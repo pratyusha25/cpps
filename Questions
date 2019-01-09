@@ -1,3 +1,5 @@
+ ‘b’ undeclared (first use in this function)
+     x=x+b;
 What is <stdio.h>?
 Ans: Its a header file, and entire file is read in at this point. It is the directive which tells the compiler to put code from the header.
 
