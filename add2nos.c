@@ -10,6 +10,8 @@ int input(void)
 }
 int compute(int x)
 {
+    int a;
+    int b;
     x=a+b;
     return x;
 }
